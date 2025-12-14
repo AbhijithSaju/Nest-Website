@@ -1,0 +1,67 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+.carousel-item img {
+    width:100%;
+    height:700px;
+    filter: brightness(65%);
+}
+
+.display-1{
+    text-align: center;
+}
+
+
+body {
+    padding-top: 115px;
+    text-align: justify; 
+}
+
+
+.display-6{
+    text-align: center;
+}
+        .contact-header {
+            margin-top: 10px;
+            text-align: center;
+        }
+        .contact-header h1 {
+            font-weight: 50;
+            letter-spacing: .5px;
+        }
+        .contact-header p {
+            max-width: 650px;
+            margin: auto;
+            color: #555;
+            font-size: 17px;
+        }
+        .info-box {
+            background: #ffffff;
+            border-radius: 12px;
+            padding: 25px 35px;
+            box-shadow: 0 4px 18px rgba(0,0,0,0.07);
+            max-width: 700px;
+        }
+        .contact-card {
+            background: #ffffff;
+            padding: 25px 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+            width: 350px;
+        }
+        .contact-card .form-control {
+            border-radius: 8px;
+        }
+        .map-container {
+            margin-top: 40px;
+        }
+
+.navbar, .navbar-brand, .nav-link {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            text-transform: uppercase; 
+
+        }
+.navbar-brand {
+            font-size: 18px;
+        }
+
